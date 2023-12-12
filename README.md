@@ -17,3 +17,7 @@ dotnet sln add .\MoneyExtension.Tests\MoneyExtension.Tests.csproj
 cd .\MoneyExtension.Tests
 dotnet add reference ..\MoneyExtension\MoneyExtension.csproj
 
+dotnet restore
+dotnet build
+dotnet test
+dotnet run
