@@ -1,6 +1,5 @@
 ## Extension to convert decimal to integer
 
-adicionado git ignore
 touch README.md
 
 mkdir MoneyExtension
@@ -21,3 +20,11 @@ dotnet restore
 dotnet build
 dotnet test
 dotnet run
+
+## Comandos git que usei
+dotnet new gitignore
+git init
+git add --al
+git commit -m "Finalizado a primeira versão"
+git remote add origin https://github.com/AndersonJardim/money-extensions.git
+git push -u origin main
