@@ -4,6 +4,20 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtension_INT</PackageId>
+    <Version>1.0.1</Version>
+    <License>MIT</License>
+    <Authors>Anderson Jose Jardim</Authors>
+    <Company>int.dev</Company>
+    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <Description>Extension to convert decimal to integer</Description>
+    <RepositoryUrl>https://github.com/AndersonJardim/MoneyExtension</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/AndersonJardim/MoneyExtension</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>money;int;decimal;converter</PackageTags>
+    <Title>MoneyExtension</Title>
+    <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
 
 </Project>
