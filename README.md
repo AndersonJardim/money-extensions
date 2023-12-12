@@ -24,7 +24,11 @@ dotnet run
 ## Comandos git que usei
 dotnet new gitignore
 git init
-git add --al
+
+git branch main
+git switch main
+
+git add --all
 git commit -m "Finalizado a primeira versão"
 git remote add origin https://github.com/AndersonJardim/money-extensions.git
 git push -u origin main
